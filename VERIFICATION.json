@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "execution": "Fresh independent kernels; top-to-bottom execution with verified public data",
+  "checks": [
+    {
+      "notebook": "01_wholesale_customers.ipynb",
+      "code_cells": 7,
+      "errors": 0
+    },
+    {
+      "notebook": "02_credit_card_fraud.ipynb",
+      "code_cells": 7,
+      "errors": 0
+    }
+  ],
+  "public_payload": "Notebooks, aggregate HTML reports, dependency files, data download helper and data descriptions only. No raw datasets or individual exports.",
+  "data_download_verification": "Public credit-card CSV matches supplied bytes; normalized public wholesale records match supplied CSV.",
+  "repository": "https://github.com/tayebwa12/dsc8307-assignment-2",
+  "moodle_submission": "Not performed; submit repository URL from student account."
+}
