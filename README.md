@@ -1,5 +1,8 @@
 # DSC8307 — Assignment 2
 
+**Name:** Tayebwa Yonah  
+**Access number:** B28697
+
 **Data Mining, Modeling and Analytics | Advent 2026 | Uganda Christian University**
 
 Two complete executed Python notebooks, one per project, with embedded reports, figures, methodological justification, evaluation, limitations and references.

@@ -16,5 +16,10 @@
   "public_payload": "Notebooks, aggregate HTML reports, dependency files, data download helper and data descriptions only. No raw datasets or individual exports.",
   "data_download_verification": "Public credit-card CSV matches supplied bytes; normalized public wholesale records match supplied CSV.",
   "repository": "https://github.com/tayebwa12/dsc8307-assignment-2",
-  "moodle_submission": "Not performed; submit repository URL from student account."
+  "moodle_submission": "Not performed; submit repository URL from student account.",
+  "student": {
+    "name": "Tayebwa Yonah",
+    "access_number": "B28697"
+  },
+  "presentation_checks": "Name and access number present in both notebooks; prose revised; code and saved numerical outputs unchanged."
 }

@@ -1,15 +1,15 @@
 {
   ".gitignore": "cae7ed396ff9011e6a910668f99fc1ea20cfa70a1eac2f9948930f7bcb02aa7c",
-  "01_wholesale_customers.ipynb": "fe6c923d727d3b62d81b460c2a54f826cca58af593a2f4778e257485356420c3",
-  "02_credit_card_fraud.ipynb": "dcc24ecad4a9940510066132747ca5739d2d151e64558f0ca2c61623d68f0fc9",
-  "README.md": "8b95db1b6cf17ee285cbfc79417db0f1ea79abaa8ee0ced4d6cb1fc4b7d83109",
+  "01_wholesale_customers.ipynb": "7263042036d55a359887cda8dc21228bec6ba5b9ffe96547b36d6ebb90c8fccf",
+  "02_credit_card_fraud.ipynb": "2004b868b556d149142c97093e23a0fe37f4a03b0b3c233fbea592e074fc20f6",
+  "README.md": "f8dccf23949862e79e5e6d80bf170a15c6143f4ab1857246f4c463fa18d8f85e",
+  "VERIFICATION.json": "2e8ae3c6910f279b0cd4bec384b139d1def73ce05cebc2b8273c85266b50e72b",
   "data/creditcard-README.txt": "67f90f55e68e97ff97dcaac43c683527ebebb8c83804cb5b796e12e4ec1c0a27",
   "data/wholesale-customers-README.txt": "5722683e7fe336278a779dd2f8b5d12f5ac91605d3404f00138af0aedfe741c3",
   "download_data.py": "22f4a8fd2dc0bdb3cc7034ab0d7edfbf327fad6de113fb7b3b59009fc8faf43f",
-  "reports/01_wholesale_customers.html": "249f85d4c3641d6c1d1ee59318a68c8abdf3a7cb0259f77ab5fd5642e9e31e0c",
-  "reports/02_credit_card_fraud.html": "b8ddd6472288db54bd6b005575281fafb1be252f7b6ee18dd4c100003431d0e1",
+  "reports/01_wholesale_customers.html": "5aaf9a4cd4b34e5b1778a7605a3663620df8c3fd9e28db74f77f075cb39185fe",
+  "reports/02_credit_card_fraud.html": "2a78a907c4fbb99e3f131c6591636c4cc6442107d55e6199eab320e63db2fa31",
   "requirements-lock-macos.txt": "845f74b93293221b88392a4d726a3b713ba358b8961f55bd8bb76ece887c042d",
   "requirements.txt": "71c16955e185bc6b83f33d85a2d4576678730534afbed3edf902059197b387e7",
-  "run_notebooks.py": "f00b6a810158dcdabbe2a4c4f608f7e01cd6a12bd5f9b6c71b89e07a374cc6ee",
-  "VERIFICATION.json": "b244730ab91ff192b51c3bfbfd29ccfa8f469f07bdec0ae4a6525cf8bd993be9"
+  "run_notebooks.py": "f00b6a810158dcdabbe2a4c4f608f7e01cd6a12bd5f9b6c71b89e07a374cc6ee"
 }
